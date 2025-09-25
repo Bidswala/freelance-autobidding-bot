@@ -53,6 +53,23 @@ Freelancing on **Freelancer.com** is competitive. Clients often see the first 10
 
 ![Bidswala Assistant 2](Bidswala The Smart AI Bidding Assistant for Freelancer-03.webp)
 
+---
+
+## FAQ  
+
+**Q: What is Bidswala?**  
+**A:** Bidswala is a freelance auto bidding bot that automates the process of finding and bidding on projects on platforms like Freelancer.com. It saves you hours of manual work and helps you land more jobs with less effort.  
+
+**Q: How does the auto bidding work?**  
+**A:** It’s simple. Once you set your skills, budget, and preferences, Bidswala scans Freelancer.com for matching projects and instantly submits personalized bids using AI — no manual clicking required.  
+
+**Q: Is Bidswala suitable for all freelancers?**  
+**A:** Absolutely. Whether you’re a developer, designer, writer, or even a freelance architect making $10,000+ a month, Bidswala is designed to work across every skill and industry.  
+
+**Q: Do I need to install anything?**  
+**A:** No installation is needed. You can use Bidswala directly from your browser. Just log in, set your preferences, and the auto bidding starts running for you.  
+
+
 
 
 
