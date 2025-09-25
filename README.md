@@ -1,2 +1,58 @@
-# freelance-autobidding-bot
-Bidswala is a powerful AI auto bidding assistant for freelancers, designed to help you save time, boost productivity, and win more projects with less effort. With automatic bid submission, it creates smart, tailored proposals on Freelancer.com so you never miss the right opportunity. 
+# Freelance Auto Bidding Bot (Bidswala )
+
+Bidswala is a smart **freelance auto bidding bot** built specifically for **Freelancer.com** users. It helps freelancers save time, bid faster, and increase their chances of winning projects without manually submitting proposals all day.
+
+---
+
+## Features
+
+- **Automatic Bidding**: Scan and bid on projects the moment they’re posted.  
+- **Custom Filters**: Target projects that match your skills, budget, and preferences.  
+- **Personalized Templates**: Make sure your proposals always sound professional and human.  
+- **24/7 Operation**: Never miss an opportunity, even while you sleep.  
+- **Time-Saving**: Focus on delivering work instead of hunting for jobs.
+
+---
+
+## How It Works
+
+1. Set your **skills and project preferences** in the bot.  
+2. Bidswala scans **Freelancer.com** for matching projects.  
+3. The bot automatically submits your **customized proposal** in seconds.  
+4. Sit back and focus on actual client work while Bidswala bids for you.
+
+---
+
+## Why Use Bidswala?
+
+Freelancing on **Freelancer.com** is competitive. Clients often see the first 10–15 proposals first, and missing out on projects happens quickly.  
+
+**Bidswala acts like a digital assistant**, ensuring you are always early, consistent, and visible without spending hours manually bidding.
+
+---
+
+## Getting Started
+
+>  Note: This repository is primarily for branding and documentation purposes. Full bot code is not publicly shared.
+
+1. Visit [Bidswala Website](https://www.bidswala.com/) to learn more.  
+2. Check out guides, screenshots, and FAQs in this repo.  
+3. Stay updated with new features and tips by following the repository.
+
+---
+
+## Screenshots
+
+> Add images of the Bidswala dashboard or auto bidding in action here:
+> ## Screenshots
+![AI Auto Bidding Success 1](AI Auto Bidding to Boost Your Freelance Success-01.jpg)
+
+![AI Auto Bidding Success 2](AI Auto Bidding to Boost Your Freelance Success-02.jpg)
+
+![Bidswala Assistant 1](Bidswala The Smart AI Bidding Assistant for Freelancer-02.webp)
+
+![Bidswala Assistant 2](Bidswala The Smart AI Bidding Assistant for Freelancer-03.webp)
+
+
+
+
